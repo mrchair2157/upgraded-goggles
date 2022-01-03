@@ -1,3 +1,4 @@
+#GPL 3.0
 import os
 import sys
 #gets packages you want to install
