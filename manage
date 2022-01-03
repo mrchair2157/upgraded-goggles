@@ -1,0 +1,2 @@
+#! /bin/zsh
+doas python3 ~/programing/python/apt/apt.py $@
