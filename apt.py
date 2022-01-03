@@ -26,7 +26,7 @@ def pkglist(s):
 
 #checks to see if to even attepmt to install packages and tell the user if no packages will be installed or to tell them and procide or not
 if len(packages) == 0:
-    print("there are no packages to be installed")
+    print("there are no packages to be installed or removes")
 
 else:
     if remove == True:
